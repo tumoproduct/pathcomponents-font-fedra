@@ -1,0 +1,8 @@
+{
+  "name": "font-fedra",
+  "version": "2.0.0",
+  "main": "fonts.css",
+  "repository": "https://github.com/tumoproduct/pathcomponents-font-fedra.git",
+  "author": "Hayk Galstyan <hayk.galstyan@tumo.org>",
+  "license": "MIT"
+}
