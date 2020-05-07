@@ -64,3 +64,13 @@
     src: url('fonts/fedrasansarm-light.eot');
     src: url('fonts/fedrasansarm-light.eot') format('embedded-opentype'), url('fonts/fedrasansarm-light.woff') format('woff'), url('fonts/fedrasansarm-light.ttf') format('truetype'), url('fonts/fedrasansarm-light.svg#FedraSansArmLight') format('svg');
 }
+
+@font-face {
+    font-family: 'fedra_sans_armdemi';
+    src: url('fonts/tt_norms/TTNorms-Bold.otf') format('opentype');
+    src: url('fonts/tt_norms/TTNorms-ExtraBold.otf') format('opentype');
+    src: url('fonts/tt_norms/TTNorms-Regular.otf') format('opentype');
+    unicode-range: U+0410-044F;
+    font-weight: normal;
+    font-style: normal;
+}
