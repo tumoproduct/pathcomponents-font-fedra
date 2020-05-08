@@ -67,10 +67,32 @@
 
 @font-face {
     font-family: 'fedra_sans_armdemi';
-    src: url('fonts/tt_norms/TTNorms-Bold.otf') format('opentype');
-    src: url('fonts/tt_norms/TTNorms-ExtraBold.otf') format('opentype');
     src: url('fonts/tt_norms/TTNorms-Regular.otf') format('opentype');
-    unicode-range: U+0410-044F;
     font-weight: normal;
     font-style: normal;
+    unicode-range: U+0410-044F;
+}
+​
+@font-face {
+    font-family: 'fedra_sans_armdemi';
+    src: url('fonts/tt_norms/TTNorms-Bold.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+    unicode-range: U+0410-044F;
+}
+
+@font-face {
+    font-family: 'fedra_sans_armdemi';
+    src: url('fonts/tt_norms/TTNorms-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+    unicode-range: U+0410-044F;
+}
+​
+@font-face {
+    font-family: 'fedra_sans_armdemi';
+    src: url('fonts/tt_norms/TTNorms-ExtraBold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    unicode-range: U+0410-044F;
 }
