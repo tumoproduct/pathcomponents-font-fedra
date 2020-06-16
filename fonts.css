@@ -37,6 +37,14 @@
 }
 
 @font-face {
+    font-family: 'fedra_sans_armdemi';
+    src: url('fonts/fedrasansarm-bold.eot');
+    src: url('fonts/fedrasansarm-bold.eot?#iefix') format('embedded-opentype'), url('fonts/fedrasansarm-bold.woff') format('woff'), url('fonts/fedrasansarm-bold.ttf') format('truetype'), url('fonts/fedrasansarm-bold.svg#fedra_sans_armbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'fedra_sans_armbold_italic';
     src: url('fonts/fedrasansarm-bolditalic.eot');
     src: url('fonts/fedrasansarm-bolditalic.eot?#iefix') format('embedded-opentype'), url('fonts/fedrasansarm-bolditalic.woff') format('woff'), url('fonts/fedrasansarm-bolditalic.ttf') format('truetype'), url('fonts/fedrasansarm-bolditalic.svg#fedra_sans_armbold_italic') format('svg');
